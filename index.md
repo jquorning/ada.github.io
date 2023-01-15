@@ -18,8 +18,8 @@ localhost
 
 KFUM
 ----
-- [Hornslet](/kfum/hornslet/)
-- [Kolind](/kfum/kolind/)
+- [Hornslet](/kirke/kfum/hornslet/)
+- [Kolind](/kirke/kfum/kolind/)
 
 Rosenholms
 ----
