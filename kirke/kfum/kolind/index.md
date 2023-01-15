@@ -1,9 +1,8 @@
-KAFÉ KOLIND
---
-**Aktiviteter på Kafé Kolind Forår 2023**
+---
+layout: page
+title: KAFÉ KOLIND
+---
 
-Kalender
-----
 - [10/1 - En Molbos Historier](arr_01-10)
 - [21/2 - Klassisk Klaver Koncert](arr_02-21)
 - [14/3 - Filmdag "Far Til Fire Tilbage i Naturen"](arr_03-14)
