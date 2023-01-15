@@ -3,12 +3,12 @@ layout: kafe-kolind
 title: Aktiviteter
 ---
 
-- [10/1 - En Molbos Historier](arr_01-10)
-- [21/2 - Klassisk Klaver Koncert](arr_02-21)
-- [14/3 - Filmdag "Far Til Fire Tilbage i Naturen"](arr_03-14)
-- [18/4 - Solo Koncert](arr_04-18)
-- [16/5 - Gruntvig, Messi og Springsteen](arr_05-16)
-- [13/6 - Kafé Kolind Band Koncert](arr_06-13)
+* [Tirsdag 10/1 - En Molbos Historier](arr_01-10)
+* [Tirsdag 21/2 - Klassisk Klaver Koncert](arr_02-21)
+* [Tirsdag 14/3 - Filmdag "Far Til Fire Tilbage i Naturen"](arr_03-14)
+* [Tirsdag 18/4 - Solo Koncert](arr_04-18)
+* [Tirsdag 16/5 - Gruntvig, Messi og Springsteen](arr_05-16)
+* [Tirsdag 13/6 - Kafé Kolind Band Koncert](arr_06-13)
 
 **OBS**  
 Alle arrangementer er gratis og starter kl. 16.00 til 17.30  
