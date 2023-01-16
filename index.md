@@ -4,6 +4,7 @@ title: Jespers Index
 ---
 
 - [Ada i Danmark](/Ada-DK/)
+- [Hornslet Kirke](/hornslet-kirke/)
 
 Ada
 ----
@@ -21,10 +22,6 @@ YouTube goodies
 - [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)
 - [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)
 - [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)
-
-Hornslet Kirke
-----
-- [Hornslet Kirke](/kirke/hornslet-kirke/)
 
 KFUM
 ----
