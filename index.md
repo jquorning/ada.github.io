@@ -22,6 +22,10 @@ YouTube goodies
 - [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)
 - [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)
 
+Hornslet Kirke
+----
+- [Hornslet Kirke](/kirke/hornslet-kirke/)
+
 KFUM
 ----
 - [Hornslet](/kirke/kfum/hornslet/)
