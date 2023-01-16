@@ -11,17 +11,16 @@ title: Fællesskab og Fællessang
 [Mandag 27/2 10.30]()  
 [Mandag 6/3 10.30]()  
 
-Værter
+Arrangører
 ----
 [Bodil Ringe Martinsen]()  
 [Kjeld Storgaard Pedersen]()  
-[Peter Nielsen]()  
 
-Musik
+Vært
 ----
-Ida
+[Ida]()
 
 Opfølgning
 ----
-[LINK](https://borgerinddragelse.syddjurs.dk/proposals/21-opgradering-af-helle-anlaeg-til-fodgaenger-overgang)
-Borgerforeslag om opgradering af helle-anlæg til fodgænger-overgang.
+[Borgerforeslag](https://borgerinddragelse.syddjurs.dk/proposals/21-opgradering-af-helle-anlaeg-til-fodgaenger-overgang) Borgerforeslag om opgradering af helle-anlæg til fodgænger-overgang.  
+[Side til underskriftsindsamling](https://jquorning.github.io/assets/underskriftsindsamling.pdf)  
