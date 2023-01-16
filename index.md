@@ -16,6 +16,11 @@ localhost
 ----
 - [localhost:8080](http://localhost:8080) Almanak
 
+YouTube goodies
+----
+- [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)
+- [Narcassist](https://fb.watch/i4lcLQGDti/)
+
 KFUM
 ----
 - [Hornslet](/kirke/kfum/hornslet/)
