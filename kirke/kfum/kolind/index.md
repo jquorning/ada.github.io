@@ -1,6 +1,6 @@
 ---
 layout: kafe-kolind
-title: Aktiviteter
+title: Aktiviteter på Kafé Kolind Forår 2023
 ---
 
 * [Tirsdag 10/1 - En Molbos Historier](arr_01-10)
