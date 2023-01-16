@@ -3,13 +3,13 @@ layout: hornslet-kirke
 title: Fællesskab og Fællessang
 ---
 
-[Mandag 16/1 10.30]()  
-[Mandag 23/1 10.30]()  
-[Mandag 30/1 10.30]()  
-[Mandag 6/2 10.30]()  
-[Mandag 20/2 10.30]()  
-[Mandag 27/2 10.30]()  
-[Mandag 6/3 10.30]()  
+[Mandag 16/1 10.30]() Fællessang  
+[Mandag 23/1 10.30]() Foredrag  
+[Mandag 30/1 10.30]() Fællessang  
+[Mandag 6/2 10.30]() Foredrag  
+[Mandag 20/2 10.30]() Fællessang  
+[Mandag 27/2 10.30]() Foredrag  
+[Mandag 6/3 10.30]() Fællessang  
 
 Arrangører
 ----
