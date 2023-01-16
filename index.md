@@ -19,7 +19,8 @@ localhost
 YouTube goodies
 ----
 - [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)
-- [Narcassist](https://fb.watch/i4lcLQGDti/)
+- [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)
+- [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)
 
 KFUM
 ----
