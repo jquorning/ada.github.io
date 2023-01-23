@@ -22,5 +22,4 @@ Vært
 
 Opfølgning
 ----
-[Borgerforeslag](https://borgerinddragelse.syddjurs.dk/proposals/21-opgradering-af-helle-anlaeg-til-fodgaenger-overgang) Borgerforeslag om opgradering af helle-anlæg til fodgænger-overgang.  
-[Side til underskriftsindsamling](https://jquorning.github.io/assets/underskriftsindsamling.pdf)  
+[Projekt Helle-anlæg](/borgerinddragelse/helle-anlæg/)
