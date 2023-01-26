@@ -3,6 +3,7 @@ layout: hornslet-kirke
 title: Hornslet Kirke
 ---
 
+[Voksenkor](voksenkor)
 [Babysalmesang](babysalmesang)  
 [Fællesskab og fællessang](fællesskab-og-fællessang)  
 [Herrehjørnet](herrehjørnet)  
