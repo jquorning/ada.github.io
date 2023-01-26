@@ -20,7 +20,7 @@ skønne korsatser folde sig ud. (Fra *korvenner.dk*)
 
 Vers
 ----
-Israltterne gik i krig med koret først
+Israltterne gik i kamp med koret først
 
 Sted
 ----
@@ -42,18 +42,18 @@ Mød koret
 
 Kalender
 ----
-Voksenkorets [kalender](https://www.lennerts.dk/v.htm).
+Voksenkorets [kalender](http://www.lennerts.dk/v.htm).
 
 Medlemmer
 ----
-Ikke offentligt tilgængelig pga Persondataloven (GPDA).
+Ikke offentligt tilgængelig pga Persondataloven (GDPR).  
 Medlemsliste fremsendelse til medlemmer af koret.
 
 Organisering
 ----
-[Korvenner](https://www.korvenner.dk) er korets støtteforening.
+[Korvenner](https://www.korvenner.dk) er korets støtteforening.  
 [Menighedsrådet](https://sogn.dk/hornslet/menighedsraad/) aflønner korlederen.
 
 Eksterne henvisninger
 ----
-[1]: [Korvenner](https://korvenner.dk)
+- [1]: [Korvenner](https://korvenner.dk)
