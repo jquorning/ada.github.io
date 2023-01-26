@@ -38,7 +38,8 @@ Mød koret
 ----
 [Facebook](https://www.facebook.com/groups/100733950042528)  
 [Youtube](https://www.youtube.com/channel/UCRoe1eCTbi5lG_8NTHUg45w)  
-[GitHub](https://github.com/jquorning/jquorning.github.io/tree/main/hornslet-kirke/voksenkor)  
+[GitHub](https://github.com/jquorning/jquorning.github.io/tree/main/hornslet-kirke/voksenkor)
+Åben for PRs  
 
 Kalender
 ----
