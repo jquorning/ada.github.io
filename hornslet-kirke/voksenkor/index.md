@@ -3,6 +3,8 @@ layout: page
 title: Hornslet Kirkes Voksenkor #uofficiel
 ---
 
+[Teaser](https://youtu.be/zlNY5tLWyYQ)
+
 **Nærmest for alle der har lyst**
 
 *Koret, der er et blandet kor (SAB for tiden) altså både mænd og
@@ -32,10 +34,11 @@ Kontakt
 ----
 *Thomas Lennert*
 
-Billeder
+Mød koret
 ----
-[Billede 01](billede_01) Hornslet Kirkse Voksenkor.
-[Billede 02](billede_02) Festival-gospel-koncert 2019. Foto: Kjeld Storgaard Pedersen.
+[Facebook](https://www.facebook.com/groups/100733950042528)  
+[Youtube](https://www.youtube.com/channel/UCRoe1eCTbi5lG_8NTHUg45w)  
+[GitHub](https://github.com/jquorning/jquorning.github.io/tree/main/hornslet-kirke/voksenkor)  
 
 Kalender
 ----
