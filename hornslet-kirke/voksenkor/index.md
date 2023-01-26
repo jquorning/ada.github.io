@@ -3,9 +3,9 @@ layout: page
 title: Hornslet Kirkes Voksenkor #uofficiel
 ---
 
-[Teaser](https://youtu.be/zlNY5tLWyYQ)
-
 **Nærmest for alle der har lyst**
+
+[Teaser](https://youtu.be/zlNY5tLWyYQ)
 
 *Koret, der er et blandet kor (SAB for tiden) altså både mænd og
  kvinder, synger med til udvalgte gudstjenester i løbet af året og
@@ -28,7 +28,7 @@ Korlokalet i [SOGNEGÅRDEN](), [Hornslet Kirkekontor](https://www.hornsletkirke.
 
 Tid
 ----
-Torsdag 19.15-21.15
+Torsdag 19.15-21.45
 
 Kontakt
 ----
@@ -57,4 +57,4 @@ Organisering
 
 Eksterne henvisninger
 ----
-- [1]: [Korvenner](https://korvenner.dk)
+- [Korvenner](http://korvenner.dk)
