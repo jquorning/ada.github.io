@@ -103,8 +103,9 @@ Familie 5
 Klan 2x
 ----
 
-- [Anne Lise Quorning]()
-- [Jesper Bruun Rasmussen]()
+- [Børge Quorning](https://minbaad.dk/nyhed/archive/2022/24/march/article/grundlagger-af-quorning-boats-borge-quorning-blev-90-aar-stor-baadebygger-er-gaaet-bort/) Nekrolog
+- [Anne Lise Quorning](https://bornekorakademiet.dk/boernekorakademiet/undervisere/anne-lise-quorning/)
+- [Jesper Bruun-Jensen](https://www.danskkulturarv.dk/find/Brun-Jensen%2C+Jesper+%28f.+1955%29+operasanger/) f. 1955
 
 - [Jesper Quorning Andersen]()
 - [Jens Quorning]()
