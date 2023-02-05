@@ -58,7 +58,10 @@ Organisering
 
 For medlemmer
 ----
-[index2](index2)
+[Optagelser](optagelser)
+[Country](country)
+[Festival](festival)
+[PULS](puls)
 
 Eksterne henvisninger
 ----

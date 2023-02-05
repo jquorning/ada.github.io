@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hornslet Kirkes Voksenkor
+title: Optagelser
 ---
 
 [Korvenner](https://korvenner.dk)
