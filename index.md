@@ -6,6 +6,7 @@ title: Jespers Index
 
 Menu
 ----
+- [Kor](/hornslet-kirke/voksenkor/)
 - [Hornslet Kirke](/hornslet-kirke/)
 - [KFUM Kolind](/kirke/kfum/kolind/)
 - [KFUM Hornslet](/hornslet-kirke/fællesskab-og-fællessang/index)
