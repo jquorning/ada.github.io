@@ -3,9 +3,12 @@ layout: page
 title: Jespers Index
 ---
 
-- [Ada i Danmark](/Ada-DK/)
 - [Hornslet Kirke](/hornslet-kirke/)
-
+- [KFUM Kolind](/kirke/kfum/kolind/)
+- [KFUM Hornslet](/hornslet-kirke/fællesskab-og-fællessang/index)
+- [Rosenholms](https://rosenholms.github.io)
+- [Hornslets](https://hornslets.github.io)
+- [Hornsleths](https://hornsleths.github.io)
 - [quornings](quornings)
 
 Ada
@@ -14,25 +17,17 @@ Ada
 - [ARH](https://the-ARH.github.io/) Ada Resouce Hub
 - [ACE](https://ada-ace.github.io/) Ada Advanced Coding for Embedded
 - [MIA](https://the-MIA.github.io/) Maintainance Initiative for Ada code
+- [Ada i Danmark](/Ada-DK/)
 
 localhost
 ----
-- [localhost:8080](http://localhost:8080) Almanak
+- [localhost:8080](http://localhost:8080) EmBib
 
 YouTube goodies
 ----
 - [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)
 - [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)
 - [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)
-
-KFUM
-----
-- [Hornslet](/kirke/kfum/hornslet/)
-- [Kolind](/kirke/kfum/kolind/)
-
-Rosenholms
-----
-- [Rosenholms](https://rosenholms.github.io)
 
 Diverse
 ----
