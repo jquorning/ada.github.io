@@ -7,7 +7,8 @@ title: Hornslet Kirkes Voksenkor #uofficiel
 
 [Teaser](https://youtu.be/zlNY5tLWyYQ)
 
-*Koret, der er et blandet kor (SAB for tiden) altså både mænd og
+*Koret, der er et blandet kor ([SAB](https://sondrestrom.com) for
+ tiden) altså både mænd og
  kvinder, synger med til udvalgte gudstjenester i løbet af året og
  synger også koncerter i alle stilarter*
 
