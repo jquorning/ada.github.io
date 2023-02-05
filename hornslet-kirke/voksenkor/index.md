@@ -62,6 +62,7 @@ For medlemmer
 [Country](country)
 [Festival](festival)
 [PULS](puls)
+[JQ Hits](jqhits)
 
 Eksterne henvisninger
 ----
