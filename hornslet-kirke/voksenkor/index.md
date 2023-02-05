@@ -56,6 +56,10 @@ Organisering
 [Korvenner](https://www.korvenner.dk) er korets støtteforening.  
 [Menighedsrådet](https://sogn.dk/hornslet/menighedsraad/) aflønner korlederen.
 
+For medlemmer
+----
+[index2](index2)
+
 Eksterne henvisninger
 ----
 - [Korvenner](http://korvenner.dk)

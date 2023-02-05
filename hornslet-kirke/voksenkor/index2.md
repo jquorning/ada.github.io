@@ -1,4 +1,6 @@
-Hornslet Kirkes Voksenkor
+---
+layout: page
+title: Hornslet Kirkes Voksenkor
 ---
 
 [Korvenner](https://korvenner.dk)
