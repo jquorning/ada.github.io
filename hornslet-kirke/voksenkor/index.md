@@ -58,11 +58,11 @@ Organisering
 
 For medlemmer
 ----
-[Optagelser](optagelser)
-[Country](country)
-[Festival](festival)
-[PULS](puls)
-[JQ Hits](jqhits)
+- [Optagelser](optagelser)
+- [Country](country)
+- [Festival](festival)
+- [PULS](puls)
+- [JQ Hits](jqhits)
 
 Eksterne henvisninger
 ----
