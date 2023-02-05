@@ -14,4 +14,6 @@ JQ Hits
 [LA International Airport - Susan Raye](https://youtu.be/Aj8f30Iguw0)
 [Jackson - Sinatra & Hazelwood](https://youtu.be/rnkuRQ8tjIE)
 
-
+[Sangen Om Langfart - Sabastian](https://youtu.be/gvCw45KzhTE)
+[Save Your Love - Renée & Renato](https://youtu.be/m7EnYrW0oQM)
+[Another Cuppa](https://youtu.be/J4MsW1s0fNE)
