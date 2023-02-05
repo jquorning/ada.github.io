@@ -38,6 +38,7 @@ Diverse
 ----
 - [Helte](/helte/)
 - [Fredsbevægelser](/fred/)
+- [helivets.dk](/helivets.dk/)
 
 People
 ----
@@ -58,15 +59,3 @@ Shortcuts
 - [Blog](/blogs/)
 - [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
 
-TOC
-----
-- [Get Started](/ada/getstarted/)
-- [Featured](/ada/featured/)
-- [Manuals](/ada/manuals/)
-- [Books](/ada/books/)
-- [Papers](/ada/papers/)
-- [Embedded](/ada/embedded/)
-- [Presentations](/ada/presentations/)
-- [Other Resources](/ada/other/)
-- [Programming](/ada/programming/)
-- [Moral Support](/ada/moral/)
