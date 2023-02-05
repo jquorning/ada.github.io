@@ -38,7 +38,7 @@ Diverse
 ----
 - [Helte](/helte/)
 - [Fredsbevægelser](/fred/)
-- [helivets.dk](/helivets.dk/)
+- [helivets.org](/helivets.org/)
 
 People
 ----
