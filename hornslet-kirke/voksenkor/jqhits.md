@@ -5,7 +5,7 @@ title: Hits
 
 JQ Hits
 ----
-
+- [Friends in Low Places - Garth Brooks](https://youtu.be/p0_der_5hRM)
 - [Musikalske Venner - Allan Mortensen](https://youtu.be/HauQSSE6_MQ)
 - [American Pie - Don McLean](https://youtu.be/ngDJIjbAvz4)
 - [Moonlight Shadow](https://youtu.be/e80qhyovOnA)
