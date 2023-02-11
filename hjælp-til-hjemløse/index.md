@@ -30,6 +30,7 @@ Hjælp til selvhjælp
 - [Uddannelse og oplysning](https://youtu.be/0fxzMP-3YD4)
 - [Bryd den sociale arv](https://youtu.be/7YkDmDJthhg)
 - [HJV](https://www.hjv.dk/Sider/default.aspx)
+- [Et lille skridt](https://youtu.be/060A15ELz00)
 
 Jylland
 ----
