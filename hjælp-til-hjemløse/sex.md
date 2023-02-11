@@ -8,3 +8,5 @@ layout: help
 [Lettet trykket?](https://datacvr.virk.dk/enhed/virksomhed/38339087)  
 [Stjerne for en aften?!!](https://web.archive.org/web/20041201000000*/www.panclub.dk)  
 [En at danse med?](https://komogdansdanmark.dk/aarhus/)  
+[Hellere på end date?](https://www.dengamleby.dk/highlights/der-var-engang-foer-1900/)  
+[Hellere ud at rejse.. åh ja!](https://visitdjurland.com)    
