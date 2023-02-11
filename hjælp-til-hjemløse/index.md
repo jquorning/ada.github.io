@@ -36,6 +36,10 @@ Hjælp til selvhjælp
 - [HJV](https://www.hjv.dk/Sider/default.aspx)
 - [Et lille skridt](https://youtu.be/060A15ELz00)
 
+Hjælp til 'psykisk syge'
+----
+- [Don't be a Chicken](https://youtu.be/DTP9__vi3d4)
+
 Jylland
 ----
 - [Thylejren](https://www.facebook.com/groups/1696465363914014)
