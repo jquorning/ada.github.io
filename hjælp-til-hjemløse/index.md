@@ -1,5 +1,5 @@
 ---
-layout:   page
+layout:   help
 title:    'Hjælp! Hjemløs..!'
 baseurl:  /hjælp-til-hjemløse
 ---
@@ -15,6 +15,10 @@ Lørdag 10 - 16
 Kontakt / Bliv frivillig
 ----
 Telefon: 22 21 07 79  
+
+Billeder
+----
+Fotografen uploader..
 
 Anden hjælp i Aarhus
 ----
