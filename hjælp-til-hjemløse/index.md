@@ -42,6 +42,7 @@ Hjælp til 'psykisk syge'
 
 Jylland
 ----
+- [Kolind]()
 - [Thylejren](https://www.facebook.com/groups/1696465363914014)
 - [Friland](https://www.facebook.com/groups/1696465363914014)
 - [Randers](https://www.randers.dk/borger/socialt/socialt-udsatte/vaeresteder/)
@@ -61,3 +62,8 @@ Soundtracks
 - [Streets of London - Ralph McTell](https://youtu.be/DiWomXklfv8)
 - [Justified and Ancient - the KLF](https://youtu.be/-_O2BCoo-C8)
 - [En af den slags dage - McEinar](https://youtu.be/2XKPF7D5wg0)
+- [CA$H](https://youtu.be/oDd32K-mOVw)
+
+Organisering
+----
+Hijacked by KFUM #unofficial !!
