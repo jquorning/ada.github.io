@@ -10,3 +10,5 @@ layout: help
 [En at danse med?](https://komogdansdanmark.dk/aarhus/)  
 [Hellere på end date?](https://www.dengamleby.dk/highlights/der-var-engang-foer-1900/)  
 [Hellere ud at rejse.. åh ja!](https://visitdjurland.com)    
+[Bare røres lidt ved?](https://www.thaimassagenu.dk/alle-klinikker/)
+[Jeg har ikke råd til det der!!!](https://businessaarhus.dk)

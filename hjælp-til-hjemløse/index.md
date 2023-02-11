@@ -5,7 +5,7 @@ baseurl:  /hjælp-til-hjemløse
 ---
 
 [Genbrugsbutik](http://hjælptilhjemløse.dk)  
-[Trindsøvej 4](https://www.google.com/maps/place/Trindsøvej+4,+8000+Aarhus/@56.1539285,10.1789742,17z/data=!3m1!4b1!4m6!3m5!1s0x464c3feff8a0022b:0xc136e63f870e349b!8m2!3d56.1539255!4d10.1811629!16s%2Fg%2F11c5jv9z1w)  
+[Trindsøvej 4](https://www.google.com/maps/place/Trindsøvej+4,+8000+Aarhus/)
 
 Åbningstid Mandag - Fredag 13-17  
 Åbningstid Lørdag 10 - 16  
@@ -69,4 +69,4 @@ Organisering
 ----
 Hijacked by [KFUM](https://kfum.se) #unofficial !!  
   
-(c) 20xx SmidDetIndMedEnSkovlWeb.dk
+(c) 20xx SmidDetIndMedEnSkovl.nu
