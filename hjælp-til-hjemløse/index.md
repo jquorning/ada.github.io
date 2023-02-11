@@ -20,7 +20,7 @@ Billeder
 ----
 Fotografen uploader..
 
-Anden hjælp i Aarhus
+Hjælp i Aarhus
 ----
 - [Hjælp til Danske Hjemløse](https://www.facebook.com/groups/425487298105126)
 - [Signe Toft - Gadepræst](https://www.facebook.com/signe.toft.54)
@@ -39,10 +39,12 @@ Hjælp til selvhjælp
 Hjælp til 'psykisk syge'
 ----
 - [Don't be a Chicken](https://youtu.be/DTP9__vi3d4)
+- [Giv dit til kende](https://youtu.be/iAtvnhwxOpM)
+- [Musik](https://kafekolindmusikprojekt.dk)
 
 Jylland
 ----
-- [Kolind]()
+- [Kolind](https://www.facebook.com/kafekolind/)
 - [Thylejren](https://www.facebook.com/groups/1696465363914014)
 - [Friland](https://www.facebook.com/groups/1696465363914014)
 - [Randers](https://www.randers.dk/borger/socialt/socialt-udsatte/vaeresteder/)
@@ -66,4 +68,4 @@ Soundtracks
 
 Organisering
 ----
-Hijacked by KFUM #unofficial !!
+Hijacked by [KFUM](https://kfum.se) #unofficial !!
