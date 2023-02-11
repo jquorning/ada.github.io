@@ -27,6 +27,9 @@ Hjælp til selvhjælp
 ----
 - [Privat ejet Mindre Virksomhed](https://virksomhedsguiden.dk/content/ydelser/vaelg-virksomhedsform/)
 - ['Allo 'Allo - Small Tank](https://youtu.be/Im9xsytmuDk)
+- [Uddannelse og oplysning](https://youtu.be/0fxzMP-3YD4)
+- [Bryd den sociale arv](https://youtu.be/7YkDmDJthhg)
+- [HJV](https://www.hjv.dk/Sider/default.aspx)
 
 Jylland
 ----
