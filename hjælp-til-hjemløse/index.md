@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Hjælp! Hjemløs..!
+layout:   default
+title:    'Hjælp! Hjemløs..!'
+baseurl:  /hjælp-til-hjemløse
 ---
 
 [Genbrugsbutik](http://http://hjælptilhjemløse.dk)  
@@ -38,3 +39,7 @@ Anden Hjælp
 - [Signe Toft - Gadepræst](https://www.facebook.com/signe.toft.54)
 - [Kirkens Korshær](https://kirkenskorshaer.dk)
 - [Frelses Hær](https://www.frelsenshaer.dk)
+
+Feedback
+----
+[Webmesteren](webmester)
