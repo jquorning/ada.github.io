@@ -48,7 +48,8 @@ Se dig omkring
 Tip til mænd
 ----
 [Kom videre med flexjob](https://se.indeed.com/jobs?l=Skåne)
-[Sexuelle fustrationer](sex)
+[Sexuelle frustrationer](sex)
+[TV Program](tvprogram)
 
 Feedback
 ----
