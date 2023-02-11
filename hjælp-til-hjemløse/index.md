@@ -18,7 +18,7 @@ Telefon: 22 21 07 79
 
 Billeder
 ----
-Fotografen uploader..
+[Billeder](billeder)
 
 Hjælp i Aarhus
 ----
