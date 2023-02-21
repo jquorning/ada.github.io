@@ -15,13 +15,18 @@ Menu
 - [Hornsleths](https://hornsleths.github.io)
 - [quornings](quornings)
 
+Organisationer
+----
+- [jquorning](https://github.com/jquorning)
+- [quornings](https://github.com/quornings)
+
 Ada
 ----
 - [ACI](https://the-aci.github.io/) Ada Cooporation Initiative
 - [ARH](https://the-ARH.github.io/) Ada Resouce Hub
 - [ACE](https://ada-ace.github.io/) Ada Advanced Coding for Embedded
 - [MIA](https://the-MIA.github.io/) Maintainance Initiative for Ada code
-- [Ada i Danmark](/Ada-DK/)
+- [Ada i Danmark](Ada-DK)
 
 localhost
 ----
@@ -42,13 +47,12 @@ Diverse
 People
 ----
 - [AdaCore](https://github.com/AdaCore)
-- [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
-- [Jorge Real](https://github.com/jorge-real)
 - [Alejandro R Mosteo](https://github.com/mosteo)
 - [Fabien Chouteau](https://github.com/Fabien-Chouteau)
 - [Simon J Wright](https://github.com/simonjwright)
 - [Stephane Carrez](https://gitlab.com/stcarrez)
-- [Jesper Quorning](https://github.com/jquorning)
+- [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
+- [Jorge Real](https://github.com/jorge-real)
 
 Shortcuts
 ----
