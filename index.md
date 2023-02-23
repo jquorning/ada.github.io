@@ -2,8 +2,8 @@
 layout: page
 title: Jespers Resurser
 ---
-[I solve problems](https://youtu.be/UeoMuK536C8)
-[GitHub](https://github.com/jquorning)
+[I solve problems](https://youtu.be/UeoMuK536C8)  
+[GitHub](https://github.com/jquorning)  
 
 Menu
 ----
