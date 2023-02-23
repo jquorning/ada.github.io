@@ -2,8 +2,23 @@
 layout: page
 title: Jespers Index
 ---
+[I solve problems](https://youtu.be/UeoMuK536C8)
 
-- [Ada i Danmark](/Ada-DK/)
+Menu
+----
+- [Kor](/hornslet-kirke/voksenkor/)
+- [Hornslet Kirke](/hornslet-kirke/)
+- [KFUM Kolind](/kirke/kfum/kolind/)
+- [KFUM Hornslet](/hornslet-kirke/fællesskab-og-fællessang/index)
+- [Rosenholms](https://rosenholms.github.io)
+- [Hornslets](https://hornslets.github.io)
+- [Hornsleths](https://hornsleths.github.io)
+- [quornings](quornings)
+
+Organisationer
+----
+- [jquorning](https://github.com/jquorning)
+- [quornings](https://github.com/quornings)
 
 Ada
 ----
@@ -11,35 +26,33 @@ Ada
 - [ARH](https://the-ARH.github.io/) Ada Resouce Hub
 - [ACE](https://ada-ace.github.io/) Ada Advanced Coding for Embedded
 - [MIA](https://the-MIA.github.io/) Maintainance Initiative for Ada code
+- [Ada i Danmark](adadk)
 
 localhost
 ----
-- [localhost:8080](http://localhost:8080) Almanak
+- [localhost:8080](http://localhost:8080) EmBib
 
-KFUM
+YouTube goodies
 ----
-- [Hornslet](/kfum/hornslet/)
-- [Kolind](/kfum/kolind/)
-
-Rosenholms
-----
-- [Rosenholms](https://rosenholms.github.io)
+- [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)
+- [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)
+- [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)
 
 Diverse
 ----
 - [Helte](/helte/)
 - [Fredsbevægelser](/fred/)
+- [helivets.org](/helivets.org/)
 
 People
 ----
 - [AdaCore](https://github.com/AdaCore)
-- [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
-- [Jorge Real](https://github.com/jorge-real)
 - [Alejandro R Mosteo](https://github.com/mosteo)
 - [Fabien Chouteau](https://github.com/Fabien-Chouteau)
 - [Simon J Wright](https://github.com/simonjwright)
 - [Stephane Carrez](https://gitlab.com/stcarrez)
-- [Jesper Quorning](https://github.com/jquorning)
+- [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
+- [Jorge Real](https://github.com/jorge-real)
 
 Shortcuts
 ----
@@ -49,15 +62,3 @@ Shortcuts
 - [Blog](/blogs/)
 - [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
 
-TOC
-----
-- [Get Started](/ada/getstarted/)
-- [Featured](/ada/featured/)
-- [Manuals](/ada/manuals/)
-- [Books](/ada/books/)
-- [Papers](/ada/papers/)
-- [Embedded](/ada/embedded/)
-- [Presentations](/ada/presentations/)
-- [Other Resources](/ada/other/)
-- [Programming](/ada/programming/)
-- [Moral Support](/ada/moral/)
