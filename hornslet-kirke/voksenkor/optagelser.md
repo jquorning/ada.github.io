@@ -3,6 +3,10 @@ layout: page
 title: Optagelser
 ---
 
+Nyt
+----
+[PULS](https://korvenner.dk/optagelser/2023/2023-02-23/play.html)  
+
 [Korvenner](https://korvenner.dk)
 
 [Kalender](http://www.lennerts.dk/v.htm) | 
@@ -20,3 +24,6 @@ Optagelser
 - [2022](https://korvenner.dk/optagelser/2022) 
 - [2021](https://korvenner.dk/optagelser/2021) 
 - [2020](https://korvenner.dk/optagelser/2020) 
+
+
+[GitHub](https://github.com/jquorning/jquorning.github.io/edit/main/hornslet-kirke/voksenkor/optagelser.md)
