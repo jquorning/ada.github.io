@@ -1,3 +1,3 @@
-# ada.github.io
+# jquorning.github.io
 
-Ada projects and resourcs on GitHub and elsewhere.
+Personal notes

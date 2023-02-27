@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+ <meta name="viewport" content="width=device-width">
+ <meta name="description" content="{{ site.description }}">
+ <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- Custom CSS -->
+ <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+</head>
+
+<body>
+ <header class="site-header">
+   <div class="wrap">
+     <img
+       src="{{ "/assets/hornslet-kirkekontor.jpg" | prepend: site.baseurl }}"
+       alt="Hornslet Kirkekontor"
+       style="width:100%;height:100%;"
+       >
+     <a class="site-title" href="">{{ page.title }}</a>
+  </div>
+</header>
+
+<div class="page-content">
+  <div class="wrap">
+    <div class="post">
+<article class="post-content" width="30em">
+  {{ content }}
+</article>
+
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

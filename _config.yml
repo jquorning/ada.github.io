@@ -1,9 +1,9 @@
 # Site settings
-title: Ada on GitHub
+title:       'Jespers Resourcer'
 email:
-description: Community Site
+description: 'Private Site'
+url:         'https://jquorning.github.io'
 baseurl:
-url:
 twitter_username:
 github_username:  jquorning
 

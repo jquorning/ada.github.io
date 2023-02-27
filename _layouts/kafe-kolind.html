@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+ <meta name="viewport" content="width=device-width">
+ <meta name="description" content="{{ site.description }}">
+ <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- Custom CSS -->
+ <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+</head>
+
+<body>
+ <header class="site-header">
+   <div class="wrap">
+     <img
+       src="{{ "/assets/kafe-kolind-banner.png" | prepend: site.baseurl }}"
+       alt="KAFÉ KOLIND banner"
+       style="width:100%;height:25%;"
+       >
+     <a class="site-title" href="">{{ page.title }}</a>
+  </div>
+</header>
+
+<div class="page-content">
+  <div class="wrap">
+    <div class="post">
+<article class="post-content" width="30em">
+  {{ content }}
+
+<h4>OBS</h4>
+<p>Alle arrangementer er gratis og starter kl. 16.00 til 17.30.</p>
+<p>Spisning kl. 17.30</p>
+<p>Meld dig til på tilmeldingslisten ved kassen i Kaféen eller ring til
+for tilmelding.</p>
+
+Med venlig hilsen<br>
+<em>Kafé Kolind</em><br>
+<em>Drasbeksgade 17</em><br>
+<em>8560 Kolind</em><br>
+<em>Tlf: 8639 5554<em><br>
+</article>
+
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
