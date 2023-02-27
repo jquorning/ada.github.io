@@ -2,12 +2,15 @@
 layout: page
 title: Jespers Resurser
 ---
+
+
 [I solve problems](https://youtu.be/UeoMuK536C8)
 [GitHub](https://github.com/jquorning)
 
 Menu
 ----
 - [Kor](/hornslet-kirke/voksenkor/)
+
 - [Hornslet Kirke](/hornslet-kirke/)
 - [KFUM Kolind](/kirke/kfum/kolind/)
 - [KFUM Hornslet](/hornslet-kirke/fællesskab-og-fællessang/index)
@@ -16,13 +19,19 @@ Menu
 - [Hornsleths](https://hornsleths.github.io)
 - [quornings](quornings)
 
+
+
+Voksenkor
+----
+- [Kor 1](voksenkor)
+- [Kor 2](/hornslet-kirke/voksenkor/)
+- [Kor 3](https://hornsletkor.githib.io)
+
+
 Organisationer
 ----
 - [jquorning](https://github.com/jquorning)
 - [quornings](https://github.com/quornings)
-
-Ada
-----
 - [ACI](https://the-aci.github.io/) Ada Cooporation Initiative
 - [ARH](https://the-ARH.github.io/) Ada Resouce Hub
 - [ACE](https://ada-ace.github.io/) Ada Advanced Coding for Embedded
@@ -41,6 +50,7 @@ YouTube goodies
 
 Diverse
 ----
+- [Linux said](https://www.youtube.com/watch?v=oHNKTlz1lps)
 - [Helte](/helte/)
 - [Fredsbevægelser](/fred/)
 - [helivets.org](/helivets.org/)
@@ -57,9 +67,4 @@ People
 
 Shortcuts
 ----
-- [Ada](/ada/)
-- [SPARK](/spark/)
-- [Forsøg](/forsøg/)
-- [Blog](/blogs/)
 - [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
-
