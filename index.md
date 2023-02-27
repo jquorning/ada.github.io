@@ -6,6 +6,10 @@ title: Jespers Resurser
 [I solve problems](https://youtu.be/UeoMuK536C8)
 [GitHub](https://github.com/jquorning)
 
+Aktuelt
+----
+[Verden ifølge Jesper Q](verden)  
+
 Menu
 ----
 - [Kor](/hornslet-kirke/voksenkor/)
