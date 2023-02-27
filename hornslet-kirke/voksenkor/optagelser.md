@@ -6,16 +6,15 @@ title: Optagelser
 Nyt
 ----
 [PULS](https://korvenner.dk/optagelser/2023/2023-02-23/play.html)  
-
-[Korvenner](https://korvenner.dk)
+[Korvenner](https://korvenner.dk)  
 
 [Kalender](http://www.lennerts.dk/v.htm) | 
-[Lennerts](http://www.lennerts.dk)
+[Lennerts](http://www.lennerts.dk)  
 
 [Kom til Kor](https://www.hornsletkirke.dk/det-sker-i-kirken/kor-for-alle-aldre) | 
-[Hornslet Kirke](https://www.hornsletkirke.dk)
+[Hornslet Kirke](https://www.hornsletkirke.dk)  
 
-[Hornslet Kirkes Voksenkor on Facebook](https://www.facebook.com/groups/100733950042528)
+[Hornslet Kirkes Voksenkor on Facebook](https://www.facebook.com/groups/100733950042528)  
 
 Optagelser
 ----
@@ -27,3 +26,5 @@ Optagelser
 
 
 [GitHub](https://github.com/jquorning/jquorning.github.io/edit/main/hornslet-kirke/voksenkor/optagelser.md)
+
+

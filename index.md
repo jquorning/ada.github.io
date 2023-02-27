@@ -2,11 +2,15 @@
 layout: page
 title: Jespers Resurser
 ---
-[I solve problems](https://youtu.be/UeoMuK536C8)  
-[GitHub](https://github.com/jquorning)  
+
+
+[I solve problems](https://youtu.be/UeoMuK536C8)
+[GitHub](https://github.com/jquorning)
 
 Menu
 ----
+- [Kor](/hornslet-kirke/voksenkor/)
+
 - [Hornslet Kirke](/hornslet-kirke/)
 - [KFUM Kolind](/kirke/kfum/kolind/)
 - [KFUM Hornslet](/hornslet-kirke/fællesskab-og-fællessang/index)
@@ -15,11 +19,14 @@ Menu
 - [Hornsleths](https://hornsleths.github.io)
 - [quornings](quornings)
 
+
+
 Voksenkor
 ----
 - [Kor 1](voksenkor)
 - [Kor 2](/hornslet-kirke/voksenkor/)
 - [Kor 3](https://hornsletkor.githib.io)
+
 
 Organisationer
 ----
