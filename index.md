@@ -3,7 +3,6 @@ layout: page
 title: Jespers Resurser
 ---
 
-
 [I solve problems](https://youtu.be/UeoMuK536C8)
 [GitHub](https://github.com/jquorning)
 
@@ -18,8 +17,6 @@ Menu
 - [Hornslets](https://hornslets.github.io)
 - [Hornsleths](https://hornsleths.github.io)
 - [quornings](quornings)
-
-
 
 Voksenkor
 ----
