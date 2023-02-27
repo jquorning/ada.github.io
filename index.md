@@ -61,4 +61,3 @@ People
 Shortcuts
 ----
 - [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
-
