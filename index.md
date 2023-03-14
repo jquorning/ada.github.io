@@ -51,10 +51,11 @@ YouTube goodies
 
 Diverse
 ----
-- [Linux said](https://www.youtube.com/watch?v=oHNKTlz1lps)
-- [Helte](/helte/)
-- [Fredsbevægelser](/fred/)
-- [helivets.org](/helivets.org/)
+[Linus said](https://www.youtube.com/watch?v=oHNKTlz1lps)  
+[Helte](/helte/)  
+[Fredsbevægelser](/fred/)  
+[helivets.org](/helivets.org/)  
+[Digte](digte)  
 
 People
 ----
