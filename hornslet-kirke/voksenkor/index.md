@@ -53,7 +53,7 @@ Medlemsliste fremsendelse til medlemmer af koret.
 
 Organisering
 ----
-[Korvenner](https://www.korvenner.dk) er korets støtteforening.  
+[Korvenner](http://www.korvenner.dk) er korets støtteforening.  
 [Menighedsrådet](https://sogn.dk/hornslet/menighedsraad/) aflønner korlederen.
 
 For medlemmer
@@ -63,7 +63,3 @@ For medlemmer
 - [Festival](festival)
 - [PULS](puls)
 - [JQ Hits](jqhits)
-
-Eksterne henvisninger
-----
-- [Korvenner](http://korvenner.dk)
