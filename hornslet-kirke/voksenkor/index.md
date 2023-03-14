@@ -25,7 +25,8 @@ Israltterne gik i kamp med koret først
 
 Sted
 ----
-Korlokalet i [SOGNEGÅRDEN](), [Hornslet Kirkekontor](https://www.hornsletkirke.dk/kontakt)
+Adresse: [SOGNEGÅRDEN](), 
+Kontakt: [Hornslet Kirkekontor](https://www.hornsletkirke.dk/kontakt)
 
 Tid
 ----
@@ -59,7 +60,6 @@ Organisering
 For medlemmer
 ----
 - [Optagelser](optagelser)
-- [Country](country)
 - [Festival](festival)
 - [PULS](puls)
 - [JQ Hits](jqhits)
