@@ -5,6 +5,7 @@ title: Jespers Resurser
 
 Aktuelt
 ----
+[Helleanlæg ved kirken](borgerinddragelse/helle-anlæg)  
 [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)  
 
 Menu
