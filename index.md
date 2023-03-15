@@ -52,14 +52,15 @@ Diverse
 
 Om
 ----
-Stud. Initiativtager  
+Stud. Initiativtager
+[Jesper Quorning - KRAK](https://www.krak.dk/jesper+quorning+hornslet/154760590/person)  
+[quornings - KRAK](https://www.krak.dk/quornings/170507263/firma)  
 [Verden ifølge Jesper Q](verden)  
 [quornings](quornings)  
 [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)  
 [I solve problems](https://youtu.be/UeoMuK536C8)  
 [Kor 1](voksenkor)  
-[Kor 2](/hornslet-kirke/voksenkor/)  
-[Kor 3](https://hornsletkor.githib.io)  
+[Kor 3](https://hornsletkor.github.io)  
 
 Bidrag
 ----
