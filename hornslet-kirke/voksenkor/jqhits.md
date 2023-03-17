@@ -3,6 +3,12 @@ layout: page
 title: JQ Hits
 ---
 
+Højskolesangbogen
+----
+[417: Nordisk Hymne](https://www.youtube.com/watch?v=kKJm1PUzv_0)  
+[432: Det var en lørdag aften (PH) - Birgitte Bruun](https://www.youtube.com/watch?v=p4IewCYM7OA)  
+[542: Man binder os på mund og hånd](https://www.youtube.com/watch?v=FVJHZT6YR3E)  
+
 Henning Stærk
 ----
 [Lonely Weekends](https://youtu.be/fKK7dkpeDqQ)  
@@ -38,6 +44,4 @@ Diverse
 [Sebasitan - Sangen Om Langfart](https://youtu.be/gvCw45KzhTE)  
 [Renée & Renato - Save Your Love](https://youtu.be/m7EnYrW0oQM)  
 [Another Cuppa](https://youtu.be/J4MsW1s0fNE)  
-[Det var en lørdag aften (PH) - Birgitte Bruun](https://www.youtube.com/watch?v=p4IewCYM7OA)  
 [Bibi & Snif - Jeg er bare en dreng](https://www.youtube.com/watch?v=dTI2WbsNraU)  
-[Man binder os på mund og hånd](https://www.youtube.com/watch?v=FVJHZT6YR3E)  
