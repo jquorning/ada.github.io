@@ -40,3 +40,4 @@ Diverse
 [Another Cuppa](https://youtu.be/J4MsW1s0fNE)  
 [Det var en lørdag aften (PH) - Birgitte Bruun](https://www.youtube.com/watch?v=p4IewCYM7OA)  
 [Bibi & Snif - Jeg er bare en dreng](https://www.youtube.com/watch?v=dTI2WbsNraU)  
+[Man binder os på mund og hånd](https://www.youtube.com/watch?v=FVJHZT6YR3E)  
