@@ -1,4 +1,6 @@
 ---
+layout: page
+title: Net TV
 ---
 
 ## Net TV
