@@ -39,6 +39,7 @@ Organisationer
 
 Diverse
 ----
+[Net TV](/nettv/)  
 [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)  
 [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)  
 [Linus said](https://www.youtube.com/watch?v=oHNKTlz1lps)  
